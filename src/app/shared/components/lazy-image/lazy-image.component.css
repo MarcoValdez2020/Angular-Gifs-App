@@ -1,0 +1,4 @@
+.fadeIn-slow {
+  animation-name: fadeIn;
+  animation-duration: 10s; /* Duración de 3 segundos */
+}
